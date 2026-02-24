@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, guys! It's me Panges👋
 
-<!--
-**pangestutibunga/pangestutibunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is _Pangestuti Bunga Yuliyanti_, a game developer who focuses on game programming and gameplay system development. I'm continuously improving my ability to write clean, structured, and maintainable code.
 
-Here are some ideas to get you started:
+🎮**What I'm currently working on:**
+- Developing gameplay system  using C#
+- Game design
+- Database
+- Creative media & digital project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻**Let's connect and collaborate with me:**
+- [Linkedin](https://www.linkedin.com/in/pangestutiby/)
+
+~Be better everyday.
